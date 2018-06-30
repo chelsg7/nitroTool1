@@ -3,6 +3,11 @@
     background-size: 100%;
 }
 
+#final, #schedule {
+  font-family: "Raleway", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 550;
+}
+
 .custom-text {color:#00acee; }
 
 @import url('https://fonts.googleapis.com/css?family=Raleway|Roboto');
