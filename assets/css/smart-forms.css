@@ -1004,10 +1004,13 @@ html, body{
 
 /* @primary button theme
 -------------------------------------------- */
-.smart-forms .btn-primary {  background-color: #4ebd4a;  }
+.smart-forms .btn-primary {
+	background-color: #00acee;
+	font-family: "Raleway", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 .smart-forms .btn-primary:hover,
-.smart-forms .btn-primary:focus { background-color: #6bc868; }
-.smart-forms .btn-primary:active{ background-color: #3c9b39; }
+.smart-forms .btn-primary:focus { background-color: #7ABBE7; }
+.smart-forms .btn-primary:active{ background-color: #0087bb; }
 .smart-forms .btn-primary, 
 .smart-forms .btn-primary:hover,
 .smart-forms .btn-primary:focus, 
